@@ -124,7 +124,7 @@ We are going to enter the beginning of our next command.
 
 Tab completion is your friend!
 
-<pre>.\hcp_win_x64_release_4.29.2.exe</pre>
+<pre>.\hcp_win_x64_release_4.29.2.exe</pre> (Or the latest version of the .exe file. To confirm version, check the downloads folder)
 
 **[RIGHT CLICK OR CTL+V TO PASTE]**
 
